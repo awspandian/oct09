@@ -2,7 +2,7 @@ git revert command
 
 this file checking to clone and push
 
-
+Arone
 clone command push on hub
 
 # oct09
