@@ -9,6 +9,7 @@ clone command push on hub
 demo-class
 samuel 
 first line from local
+Arone
 
 second line from local
 
